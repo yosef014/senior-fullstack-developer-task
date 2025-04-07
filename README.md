@@ -22,7 +22,7 @@ Good luck!
 This is a full-stack application with the following tech stack:
 
 - Backend: Node.js with TypeScript, Express, and TypeORM
-- Frontend: React with TypeScript
+- Frontend: Vue.js (Vuex, Vue-Router, Vite)
 - Database: SQLite (for simplicity and quick setup)
 
 ## Prerequisites
