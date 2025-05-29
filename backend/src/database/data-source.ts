@@ -1,3 +1,5 @@
+// (!) Don't change this file
+
 import { User } from '../users/users.entity';
 import 'reflect-metadata';
 import { DataSource, DataSourceOptions } from 'typeorm';
