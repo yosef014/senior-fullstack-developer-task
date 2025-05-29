@@ -1,5 +1,5 @@
 # Senior Full-Stack Developer Assessment
-
+⚠️ **NOTE!** Do not submit a pull request to this repository. Fork it and open a pull request in your own fork..
 ## Introduction
 
 Welcome! If you're reviewing this repository, you are likely a candidate for the Senior Full-Stack Developer position at HyperGuest—congratulations on making it this far.
@@ -118,7 +118,7 @@ Implement the following features:
 
 1. **User Role Management**
    - Replace the current single-role-per-user setup with support for **multiple roles**.
-   - The DB column `role` should be change to `roles` and it's type to JSON, it will contains array of roles
+   - The DB column `role` should be change to `roles` and it's type to `JSON`, it will contain a JSON array of roles
    - Please use the DB migrations as you would in a real life application
 
 2. **User Status Enhancement**
