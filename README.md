@@ -118,6 +118,8 @@ Implement the following features:
 
 1. **User Role Management**
    - Replace the current single-role-per-user setup with support for **multiple roles**.
+   - The DB column `role` should be change to `roles` and it's type to JSON, it will contains array of roles
+   - Please use the DB migrations as you would in a real life application
 
 2. **User Status Enhancement**
    - Replace the current boolean status field with a new enum: `Enabled`, `Disabled`, and `Deleted`.
