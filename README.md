@@ -27,6 +27,7 @@ Role-based route guards were implemented using router.beforeEach.
 Displayed the username on all pages and implemented a Logout button to reset the state and return to the login page.
 
 ** Suggestions for improvements or architectural changes **
+
 Authentication:
 
 Currently, login is based on a username only. In a real-world application, this should be extended to support password-based authentication (with hashing and JWT for session/token handling).
